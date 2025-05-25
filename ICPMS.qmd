@@ -89,7 +89,7 @@ quadrupoles/TOFs have SEMs (with pulse and analog modes)
 Sector field instruments - all the options
 
 ## Environmental considerations
-It's really important to control the temperature and humidity of the room because you're going from atmospheric pressure into a high vacuum environment
+It's really important to control the temperature and humidity of the room because you're going from atmospheric pressure into a high vacuum environment.
 
 ## Examples of ICP Mass Spectrometers
 
@@ -100,3 +100,4 @@ It's really important to control the temperature and humidity of the room becaus
 ### Magnetic sectors
 
 ### Tandem (MS/MS) machines
+Commercial tandem mass spectrometers have been available since the launch of the Agilent 8800 in 2012. The Agilent 8800 is a quadrupole-based ICP-MS/MS
